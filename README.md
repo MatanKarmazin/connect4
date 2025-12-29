@@ -43,7 +43,7 @@ This architectural decision was made to align with software engineering best pra
 ---
 
 ## How to Run
-1. Open the solution file (`.sln`) in **Visual Studio**  
+1. Open the solution file (`.slnx`) in **Visual Studio**  
 2. Ensure **.NET Framework 4.0** is selected
 3. Build the solution
 4. Run the project from Visual Studio or execute the compiled binary
