@@ -65,5 +65,5 @@ The codebase was intentionally designed to support future evolution beyond a con
 
 ---
 
-## Author
+## Authors
 **Matan Karmazin & Lior Zvieli**
